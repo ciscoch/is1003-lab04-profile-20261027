@@ -14,6 +14,10 @@ I am studying cybersecurity at UTSA after a career in telecommunications, networ
 
 I am interested in cybersecurity, responsible use of AI, and practical projects that connect software to real-world needs. My personal projects have included agricultural technology and home automation.
 
+## Current Git Practice
+
+I use a separate branch for a proposed change, review it before merging, and check the local file after pulling. I am practicing this workflow alongside my cybersecurity coursework.
+
 ## Links
 
 - [GitHub](https://github.com/ciscoch)
